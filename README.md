@@ -1,4 +1,3 @@
 <h4>
-    I write random crap here read it or fuck off <br>
-    navigate to html mf
+Blog teaching some basic things about web development and a project towards my portfolio
 </h4>
