@@ -1,7 +1,7 @@
 ---
-title: Bacon ipsum dolor amet hamburger pancetta ball tip
+title: Shyam's blog
 ---
 
 # About me
 
-### Teri maa se puch kon hai me bhosdike.
+### A place where I share some things about web development!
